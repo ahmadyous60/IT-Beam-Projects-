@@ -1,0 +1,15 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
+a:hover{
+    color: rgb(121, 140, 220);
+}
